@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">AfricLite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Contact">Contact_fragment</string>
+    <string name="Group">Groups_fragment</string>
+    <string name="Afric">AfricLite</string>
+    <string name="Chat">Chat_fragment</string>
+    <string name="todo">TODO</string>
+    <string name="Return">Return</string>
+    <string name="face1">
+        <a href="https://www.facebook.com/chiboy.joseph.142?ref=bookmarks">...</a>
+    </string>
+    <string name="insta1">
+        <a href="https://www.instagram.com/jeremiahjoseph27/">...</a>
+    </string>
+    <string name="link1">
+        <a href="https://www.linkedin.com/in/emmanuel-onah-55b80b168/">...</a>
+    </string>
+    <string name="gmail">
+        <a href="emmajerry2016@gmail.com">...</a>
+    </string>
+    <string name="ceo">Am Emmanuel Onah,a software developer.Slogan:Change the world if you can.For more:google:)</string>
+    <string name="ScreenSaver">Welcome to AfricLite in unity we abide</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="login">login</string>
+    <string name="login1">login</string>
+    <string name="forget_password">forget password?</string>
+    <string name="need_new_account">Need new Account</string>
+    <string name="or_login_using_yours">or Login Using Yours</string>
+    <string name="phone">phone</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="Af1">The history of Africa begins with the emergence of hominids, archaic
+        humans and—at most 6,000-7,000 years ago—anatomically modern humans (Homo sapiens), in East
+        Africa, and continues unbroken into the present as a patchwork of diverse and politically
+        developing nation states. The earliest known recorded history arose in the Kingdom of
+        Kush,[1] and later in Ancient Egypt, the Sahel, the Maghreb and the Horn of Africa.
+
+        Following the desertification of the Sahara, North African history became entwined with the
+        Middle East and Southern Europe while the Bantu expansion swept from modern day Cameroon
+        (West Africa) across much of the sub-Saharan continent in waves between around 1000 BC and 0
+        AD, creating a linguistic commonality across much of the central and Southern continent.
+
+    </string>
+    <string name="AfricaLink">
+        <a href="https://en.wikipedia.org/wiki/History_of_Africa">Click to read more</a>
+    </string>
+    <string name="twitterLink">
+        <a href="https://twitter.com/Jeremia82064196">....</a>
+    </string>
+    <string name="wikiLinka">
+        <a href="https://en.wikipedia.org/wiki/User:Emmanuel_Chikwendu_Onah#Honours,_decorations,_awards_and_distinctions">....</a>
+    </string>
+    <string name="architecturing">Architecturing</string>
+    <string name="find_friends">Find friends</string>
+    <string name="developer">Developer</string>
+    <string name="adventorous_of_africa">Adventorous of Africa</string>
+    <string name="logout">Logout</string>
+    <string name="settings">Settings</string>
+    <string name="type_your_message_here">Type your message here</string>
+    <string name="string_type_your_message_here" />
+    <string name="todo1">TODO</string>
+    <string name="fly">Fly</string>
+    <string name="receiver">Receivers id:</string>
+    <string name="text">Chat:</string>
+    <string name="fly_now">Fly now</string>
+</resources>

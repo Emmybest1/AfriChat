@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TransferChatActivity">
+
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageView"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="55dp"
+        android:layout_marginEnd="178dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="32dp"
+        android:autofillHints=""
+        android:background="@drawable/inputs"
+        android:ems="10"
+        android:hint="@string/receiver"
+        android:inputType=""
+        android:padding="17dp"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toTopOf="@+id/editText2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:targetApi="o" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editText"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="178dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="32dp"
+        android:background="@drawable/inputs"
+        android:ems="10"
+        android:hint="@string/text"
+        android:importantForAutofill="no"
+        android:inputType="textMultiLine"
+        android:padding="17dp"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editText"
+        tools:targetApi="o" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editText2"
+        android:layout_marginLeft="19dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginRight="19dp"
+        android:background="@color/colorPrimaryDark"
+        android:drawableStart="@drawable/ic_local_airport_black_24dp"
+        android:padding="4dp"
+        android:text="@string/fly_now"
+        android:textAllCaps="false"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:textSize="24sp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="176dp"
+        android:background="@color/design_default_color_primary_dark"
+        android:contentDescription="@string/Afric"
+        app:srcCompat="@drawable/bird" />
+</RelativeLayout>
