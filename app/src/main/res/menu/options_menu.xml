@@ -2,60 +2,26 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-
-    <item
-        android:title="@string/adventorous_of_africa"
-        android:id="@+id/africa_menu"
-        app:showAsAction="never"
-        android:icon="@drawable/ic_history_black_24dp"
-        >
-    </item>
     <item
         android:title="@string/architecturing"
         android:id="@+id/architecturing_option"
-        app:showAsAction="never"
-        android:icon="@drawable/ic_settings_black_24dp"
-        >
-    </item>
-
+        app:showAsAction="never"/>
     <item
-        android:title="Create group"
-        android:id="@+id/create_group_menu"
-        app:showAsAction="never">
-    </item>
-    <item
-        android:title="Find friends"
+        android:title="@string/find_friends"
         android:id="@+id/find_friends"
-        app:showAsAction="never"
-        android:icon="@drawable/ic_find_in_page_black_24dp"
-        >
-    </item>
-    <item
-        android:title="Founder and developer"
-        android:id="@+id/developer_option"
-        app:showAsAction="never"
-        android:icon="@drawable/ic_supervisor_account_black_24dp"
-        >
-    </item>
-    <item
-        android:title="Search engine"
-        android:id="@+id/search_engine_option"
-        app:showAsAction="never"
-        >
-    </item>
-    <item
-        android:title="Transfer chat"
-        android:id="@+id/transfer_chat_option"
-        app:showAsAction="never"
-        android:icon="@drawable/ic_phonelink_lock_black_24dp"
-        >
-    </item>
+        app:showAsAction="never"/>
 
+    <item
+        android:title="@string/search_engine"
+        android:id="@+id/search_engine"
+        app:showAsAction="never"/>
+    <item
+        android:title="@string/transfer_chat"
+        android:id="@+id/transfer_chat"
+        app:showAsAction="never"/>
     <item
         android:title="@string/logout"
         android:id="@+id/logout_menu"
-        app:showAsAction="never"
-        android:icon="@drawable/ic_account_circle_black_24dp"
-        >
-    </item>
+        app:showAsAction="never"/>
+
 </menu>

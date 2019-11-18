@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "427340574356-u041nupsbsh2236so611gh14vqvoun3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emmajerry2016.africlite",
+            "certificate_hash": "6c597a10c9fe3705ab4281e43872339591e6af9b"
+          }
+        },
+        {
           "client_id": "427340574356-rq6rpg22ulh9o1pibqt8qesiq4vfc4ec.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -33,20 +41,13 @@
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
               "client_id": "427340574356-ueanbhvq44c4i5g58h4rmsral7an9kn7.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }

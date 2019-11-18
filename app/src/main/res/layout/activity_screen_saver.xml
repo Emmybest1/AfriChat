@@ -3,44 +3,42 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:background="@color/colorPrimary"
-
+    android:layout_height="match_parent"
+    android:background="@color/mycolorlogin"
     tools:context=".ScreenSaver">
 
     <ImageView
-        android:id="@+id/imageView3"
-        android:layout_width="308dp"
-        android:layout_height="839dp"
-        android:contentDescription="@string/app_name"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:id="@+id/imageView"
+        android:layout_width="383dp"
+        android:layout_height="65dp"
+        android:layout_marginStart="159dp"
+        android:layout_marginTop="150dp"
+        android:layout_marginEnd="159dp"
+        android:contentDescription="@string/weAreAfriclite"
+        android:foregroundGravity="center"
+        android:src="@drawable/logooo"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1.0"
-        app:srcCompat="@drawable/mylogo" />
+        app:layout_constraintTop_toTopOf="parent">
+
+    </ImageView>
 
     <TextView
-        android:id="@+id/textView6"
-        android:layout_width="272dp"
-        android:layout_height="112dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginBottom="8dp"
-        android:background="@drawable/inputs"
-        android:contentDescription="@string/app_name"
-        android:fontFamily="cursive"
-        android:gravity="center"
-        android:text="@string/ScreenSaver"
-        android:textColor="@android:color/holo_orange_light"
-        android:textSize="30sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:id="@+id/africlite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="200dp"
+        android:layout_marginTop="176dp"
+        android:layout_marginEnd="200dp"
+        android:contentDescription="@string/weAreAfriclite"
+        android:text="@string/weAreAfriclite"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="14sp"
+        android:textStyle="normal"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.721" />
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        tools:ignore="RtlCompat" />
+
+
 </android.support.constraint.ConstraintLayout>

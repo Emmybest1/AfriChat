@@ -3,10 +3,10 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    tools:context=".MainActivity"
-    android:background="@color/colorPrimaryDark">
+    android:background="#ffffffff">
 
     <android.support.design.widget.AppBarLayout
         android:id="@+id/app_bar_layout"
@@ -16,38 +16,26 @@
         <include
             android:id="@+id/main_page_toolbar"
             layout="@layout/app_layout">
-
         </include>
 
-        <TextView
-            android:id="@+id/gr"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:fontFamily="sans-serif-smallcaps"
-            android:text="@string/Afric"
-            android:textColor="@color/common_google_signin_btn_text_dark_default"
-            android:textSize="24sp"
-            android:layout_marginStart="15dp"
-            android:layout_marginEnd="200dp"
-            android:textStyle="bold" />
 
         <android.support.design.widget.TabLayout
             android:id="@+id/tab_layout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:theme="@style/Base.ThemeOverlay.AppCompat.Dark.ActionBar"
-            app:tabIndicatorColor="@color/design_default_color_primary_dark">
-
-
+            app:tabIndicatorColor="@color/colorPrimaryDark">
         </android.support.design.widget.TabLayout>
 
     </android.support.design.widget.AppBarLayout>
+
 
     <android.support.v4.view.ViewPager
         android:id="@+id/view_pager"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/app_bar_layout">
-
     </android.support.v4.view.ViewPager>
+
+
     </RelativeLayout>

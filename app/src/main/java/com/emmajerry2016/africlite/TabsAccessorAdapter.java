@@ -19,19 +19,14 @@ public class TabsAccessorAdapter extends FragmentPagerAdapter {
                 return chatFragment;
 
             case 1:
-                GroupsFragment groupsFragment = new GroupsFragment();
-                return groupsFragment;
-
-            case 2:
                 ContactFragment contactFragment = new ContactFragment();
                 return contactFragment;
 
-            /*case 3:
-                developerFragment developerFragment=new developerFragment();
-                return developerFragment;
-*/
+            case 2:
+                RequestFragment requestFragment = new RequestFragment();
+                return requestFragment;
+
             default:
-                System.out.println("Your request do not exist");
                 return null;
         }
     }
@@ -50,15 +45,12 @@ public class TabsAccessorAdapter extends FragmentPagerAdapter {
                 return "chats";
 
             case 1:
-                return "groups";
+                return "friends";
 
             case 2:
-                return "contacts";
+                return "notifications";
 
-          //  case 3:
-           //     return "developer";
             default:
-                System.out.println("Your request do not exist");
                 return null;
         }
     }

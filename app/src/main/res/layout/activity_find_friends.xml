@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FindFriendsActivity">
+
+    <include
+        android:id="@+id/find_friend_toolbar"
+        layout="@layout/app_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </include>
+
+    <EditText
+        android:id="@+id/search_bar"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_below="@id/find_friend_toolbar"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/logoo"
+        android:drawableStart="@drawable/search"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:hint="@string/search_here"
+        android:importantForAutofill="no"
+        android:inputType=""
+        android:textColorHint="#e0e0e0"
+        android:padding="13dp"
+        tools:targetApi="o" />
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/findfrieds_recycler_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="3dp"
+        android:layout_below="@id/search_bar"
+        android:layout_centerVertical="true"
+ />
+
+<!--    <ImageButton-->
+<!--        android:id="@+id/imageButton"-->
+<!--        android:layout_width="117dp"-->
+<!--        android:layout_height="43dp"-->
+<!--        android:layout_alignParentEnd="true"-->
+<!--        android:layout_marginStart="7dp"-->
+<!--        android:layout_marginTop="59dp"-->
+<!--        android:layout_marginEnd="20dp"-->
+<!--        android:layout_marginBottom="0dp"-->
+<!--        android:layout_toEndOf="@+id/search_bar"-->
+<!--        android:background="@drawable/logoo"-->
+<!--        android:contentDescription="@string/todo"-->
+<!--        app:srcCompat="@android:drawable/ic_menu_search" />-->
+
+</RelativeLayout>
