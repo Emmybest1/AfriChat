@@ -1,0 +1,298 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.emmajerry2016.africlite"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:5:5-80
+11-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:5:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:6:5-81
+12-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:7:5-67
+13-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:7:22-64
+14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+14-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:8:5-76
+14-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:8:22-73
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:9:5-79
+15-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:9:22-76
+16    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+16-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:25:5-68
+16-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:25:22-65
+17    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+17-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:26:5-82
+17-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:26:22-79
+18
+19    <permission
+19-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:28:5-30:47
+20        android:name="com.emmajerry2016.africlite.permission.C2D_MESSAGE"
+20-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:29:9-63
+21        android:protectionLevel="signature" />
+21-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:30:9-44
+22
+23    <uses-permission android:name="com.emmajerry2016.africlite.permission.C2D_MESSAGE" />
+23-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:32:5-79
+23-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:32:22-76
+24
+25    <application
+25-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:11:5-57:19
+26        android:allowBackup="true"
+26-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:12:9-35
+27        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+27-->[com.android.support:support-compat:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f5a85dd78f7d459b9d0f4b7a370cdf52/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+28        android:icon="@mipmap/ic_launcher"
+28-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:13:9-43
+29        android:label="@string/app_name"
+29-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:14:9-41
+30        android:largeHeap="true"
+30-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:15:9-33
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:16:9-54
+32        android:supportsRtl="true"
+32-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:17:9-35
+33        android:theme="@style/AppTheme" >
+33-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:18:9-40
+34        <activity
+34-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:19:9-20:57
+35            android:name="com.emmajerry2016.africlite.TransferChat"
+35-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:19:19-47
+36            android:parentActivityName="com.emmajerry2016.africlite.MainActivity" />
+36-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:20:13-55
+37        <activity android:name="com.emmajerry2016.africlite.ResetPasswordActivity" />
+37-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:21:9-59
+37-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:21:19-56
+38        <activity
+38-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:22:9-24:58
+39            android:name="com.emmajerry2016.africlite.ChatActivity"
+39-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:23:13-41
+40            android:parentActivityName="com.emmajerry2016.africlite.MainActivity" />
+40-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:24:13-55
+41        <activity
+41-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:25:9-27:58
+42            android:name="com.emmajerry2016.africlite.ProfileActivity"
+42-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:26:13-44
+43            android:parentActivityName="com.emmajerry2016.africlite.MainActivity" />
+43-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:27:13-55
+44        <activity
+44-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:28:9-30:58
+45            android:name="com.emmajerry2016.africlite.FindFriendsActivity"
+45-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:29:13-48
+46            android:parentActivityName="com.emmajerry2016.africlite.MainActivity" />
+46-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:30:13-55
+47        <activity
+47-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:31:9-33:58
+48            android:name="com.emmajerry2016.africlite.PhoneActivity"
+48-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:32:13-42
+49            android:parentActivityName="com.emmajerry2016.africlite.MainActivity" />
+49-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:33:13-55
+50        <activity
+50-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:34:9-36:58
+51            android:name="com.emmajerry2016.africlite.SettingsActivity"
+51-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:35:13-45
+52            android:parentActivityName="com.emmajerry2016.africlite.MainActivity" />
+52-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:36:13-55
+53        <activity
+53-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:37:9-39:58
+54            android:name="com.emmajerry2016.africlite.Search_engine"
+54-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:38:13-42
+55            android:parentActivityName="com.emmajerry2016.africlite.MainActivity" />
+55-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:39:13-55
+56        <activity
+56-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:40:9-42:58
+57            android:name="com.emmajerry2016.africlite.RegisterActivity"
+57-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:41:13-45
+58            android:parentActivityName="com.emmajerry2016.africlite.MainActivity" />
+58-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:42:13-55
+59        <activity android:name="com.emmajerry2016.africlite.ScreenSaver" >
+59-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:43:9-49:20
+59-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:43:19-46
+60            <intent-filter>
+60-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:44:13-48:29
+61                <action android:name="android.intent.action.MAIN" />
+61-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:45:17-69
+61-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:45:25-66
+62
+63                <category android:name="android.intent.category.LAUNCHER" />
+63-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:47:17-77
+63-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:47:27-74
+64            </intent-filter>
+65        </activity>
+66        <activity
+66-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:50:9-52:58
+67            android:name="com.emmajerry2016.africlite.LoginActivity"
+67-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:51:13-42
+68            android:parentActivityName="com.emmajerry2016.africlite.MainActivity" />
+68-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:52:13-55
+69        <activity android:name="com.emmajerry2016.africlite.MainActivity" />
+69-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:53:9-50
+69-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:53:19-47
+70        <activity
+70-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:54:9-56:59
+71            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+71-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:55:13-76
+72            android:theme="@style/Base.Theme.AppCompat" />
+72-->/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:56:13-56
+73        <activity
+73-->[com.google.firebase:firebase-auth:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0d1a281ddb5933f852fbc67456f3aefb/firebase-auth-11.8.0/AndroidManifest.xml:23:9-29:75
+74            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+74-->[com.google.firebase:firebase-auth:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0d1a281ddb5933f852fbc67456f3aefb/firebase-auth-11.8.0/AndroidManifest.xml:24:13-85
+75            android:excludeFromRecents="true"
+75-->[com.google.firebase:firebase-auth:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0d1a281ddb5933f852fbc67456f3aefb/firebase-auth-11.8.0/AndroidManifest.xml:25:13-46
+76            android:exported="true"
+76-->[com.google.firebase:firebase-auth:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0d1a281ddb5933f852fbc67456f3aefb/firebase-auth-11.8.0/AndroidManifest.xml:26:13-36
+77            android:launchMode="singleInstance"
+77-->[com.google.firebase:firebase-auth:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0d1a281ddb5933f852fbc67456f3aefb/firebase-auth-11.8.0/AndroidManifest.xml:27:13-48
+78            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+78-->[com.google.firebase:firebase-auth:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0d1a281ddb5933f852fbc67456f3aefb/firebase-auth-11.8.0/AndroidManifest.xml:28:13-102
+79            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+79-->[com.google.firebase:firebase-auth:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0d1a281ddb5933f852fbc67456f3aefb/firebase-auth-11.8.0/AndroidManifest.xml:29:13-72
+80        <!--
+81             FirebaseMessagingService performs security checks at runtime,
+82             no need for explicit permissions despite exported="true"
+83        -->
+84        <service
+84-->[com.google.firebase:firebase-messaging:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b388c069e593c3c0c089c62ebd51a06d/firebase-messaging-11.8.0/AndroidManifest.xml:28:9-34:19
+85            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+85-->[com.google.firebase:firebase-messaging:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b388c069e593c3c0c089c62ebd51a06d/firebase-messaging-11.8.0/AndroidManifest.xml:29:13-82
+86            android:exported="true" >
+86-->[com.google.firebase:firebase-messaging:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b388c069e593c3c0c089c62ebd51a06d/firebase-messaging-11.8.0/AndroidManifest.xml:30:13-36
+87            <intent-filter android:priority="-500" >
+87-->[com.google.firebase:firebase-messaging:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b388c069e593c3c0c089c62ebd51a06d/firebase-messaging-11.8.0/AndroidManifest.xml:31:13-33:29
+87-->[com.google.firebase:firebase-messaging:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b388c069e593c3c0c089c62ebd51a06d/firebase-messaging-11.8.0/AndroidManifest.xml:31:28-51
+88                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+88-->[com.google.firebase:firebase-messaging:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b388c069e593c3c0c089c62ebd51a06d/firebase-messaging-11.8.0/AndroidManifest.xml:32:17-78
+88-->[com.google.firebase:firebase-messaging:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b388c069e593c3c0c089c62ebd51a06d/firebase-messaging-11.8.0/AndroidManifest.xml:32:25-75
+89            </intent-filter>
+90        </service>
+91
+92        <activity
+92-->[com.google.android.gms:play-services-base:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d40b80b7090b3b6eeb4fdb9c903db7bd/play-services-base-11.8.0/AndroidManifest.xml:23:9-26:75
+93            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+93-->[com.google.android.gms:play-services-base:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d40b80b7090b3b6eeb4fdb9c903db7bd/play-services-base-11.8.0/AndroidManifest.xml:24:13-79
+94            android:exported="false"
+94-->[com.google.android.gms:play-services-base:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d40b80b7090b3b6eeb4fdb9c903db7bd/play-services-base-11.8.0/AndroidManifest.xml:25:13-37
+95            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+95-->[com.google.android.gms:play-services-base:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d40b80b7090b3b6eeb4fdb9c903db7bd/play-services-base-11.8.0/AndroidManifest.xml:26:13-72
+96
+97        <receiver
+97-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:28:9-32:20
+98            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+98-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:29:13-85
+99            android:enabled="true"
+99-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:30:13-35
+100            android:exported="false" >
+100-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:31:13-37
+101        </receiver>
+102        <receiver
+102-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:33:9-41:20
+103            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+103-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:34:13-100
+104            android:enabled="true"
+104-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:35:13-35
+105            android:exported="true"
+105-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:36:13-36
+106            android:permission="android.permission.INSTALL_PACKAGES" >
+106-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:37:13-69
+107            <intent-filter>
+107-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:38:13-40:29
+108                <action android:name="com.android.vending.INSTALL_REFERRER" />
+108-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:39:17-79
+108-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:39:25-76
+109            </intent-filter>
+110        </receiver>
+111
+112        <service
+112-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:43:9-46:40
+113            android:name="com.google.android.gms.measurement.AppMeasurementService"
+113-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:44:13-84
+114            android:enabled="true"
+114-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:45:13-35
+115            android:exported="false" />
+115-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:46:13-37
+116        <service
+116-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:47:9-51:72
+117            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+117-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:48:13-87
+118            android:enabled="true"
+118-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:49:13-35
+119            android:exported="false"
+119-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:50:13-37
+120            android:permission="android.permission.BIND_JOB_SERVICE" />
+120-->[com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:51:13-69
+121
+122        <receiver
+122-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:35:9-44:20
+123            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+123-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:36:13-78
+124            android:exported="true"
+124-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:37:13-36
+125            android:permission="com.google.android.c2dm.permission.SEND" >
+125-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:38:13-73
+126            <intent-filter>
+126-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:39:13-43:29
+127                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+127-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:40:17-81
+127-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:40:25-78
+128
+129                <category android:name="com.emmajerry2016.africlite" />
+129-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:42:17-61
+129-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:42:27-58
+130            </intent-filter>
+131        </receiver>
+132        <!--
+133             FirebaseInstanceIdService performs security checks at runtime,
+134             no need for explicit permissions despite exported="true"
+135        -->
+136        <service
+136-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:50:9-56:19
+137            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+137-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:51:13-77
+138            android:exported="true" >
+138-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:52:13-36
+139            <intent-filter android:priority="-500" >
+139-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:53:13-55:29
+139-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:53:28-51
+140                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+140-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:54:17-80
+140-->[com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:54:25-77
+141            </intent-filter>
+142        </service>
+143
+144        <provider
+144-->[com.google.firebase:firebase-common:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/910cbe4e2d5d70e3208f33be07081ada/firebase-common-11.8.0/AndroidManifest.xml:8:9-12:39
+145            android:name="com.google.firebase.provider.FirebaseInitProvider"
+145-->[com.google.firebase:firebase-common:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/910cbe4e2d5d70e3208f33be07081ada/firebase-common-11.8.0/AndroidManifest.xml:9:13-77
+146            android:authorities="com.emmajerry2016.africlite.firebaseinitprovider"
+146-->[com.google.firebase:firebase-common:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/910cbe4e2d5d70e3208f33be07081ada/firebase-common-11.8.0/AndroidManifest.xml:10:13-72
+147            android:exported="false"
+147-->[com.google.firebase:firebase-common:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/910cbe4e2d5d70e3208f33be07081ada/firebase-common-11.8.0/AndroidManifest.xml:11:13-37
+148            android:initOrder="100" />
+148-->[com.google.firebase:firebase-common:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/910cbe4e2d5d70e3208f33be07081ada/firebase-common-11.8.0/AndroidManifest.xml:12:13-36
+149
+150        <meta-data
+150-->[com.google.android.gms:play-services-basement:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f0aa18c8d6f5c0ee2f05baacca620deb/play-services-basement-11.8.0/AndroidManifest.xml:23:9-25:69
+151            android:name="com.google.android.gms.version"
+151-->[com.google.android.gms:play-services-basement:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f0aa18c8d6f5c0ee2f05baacca620deb/play-services-basement-11.8.0/AndroidManifest.xml:24:13-58
+152            android:value="@integer/google_play_services_version" />
+152-->[com.google.android.gms:play-services-basement:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f0aa18c8d6f5c0ee2f05baacca620deb/play-services-basement-11.8.0/AndroidManifest.xml:25:13-66
+153
+154        <provider
+154-->[com.squareup.picasso:picasso:2.71828] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0de9585e556b9a46f2e58302e3476c01/picasso-2.71828/AndroidManifest.xml:8:9-11:40
+155            android:name="com.squareup.picasso.PicassoProvider"
+155-->[com.squareup.picasso:picasso:2.71828] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0de9585e556b9a46f2e58302e3476c01/picasso-2.71828/AndroidManifest.xml:9:13-64
+156            android:authorities="com.emmajerry2016.africlite.com.squareup.picasso"
+156-->[com.squareup.picasso:picasso:2.71828] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0de9585e556b9a46f2e58302e3476c01/picasso-2.71828/AndroidManifest.xml:10:13-72
+157            android:exported="false" />
+157-->[com.squareup.picasso:picasso:2.71828] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0de9585e556b9a46f2e58302e3476c01/picasso-2.71828/AndroidManifest.xml:11:13-37
+158    </application>
+159
+160</manifest>

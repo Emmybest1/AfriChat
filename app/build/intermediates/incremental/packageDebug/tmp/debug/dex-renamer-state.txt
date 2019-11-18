@@ -1,0 +1,4 @@
+#Mon Nov 18 15:45:38 EET 2019
+base.0=/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

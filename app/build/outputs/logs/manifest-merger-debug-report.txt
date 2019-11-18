@@ -1,0 +1,603 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:2:1-59:12
+MERGED from [com.android.support:design:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/dd542358a68089867e0b5b5c0286298b/design-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5e18e961f902591a615adb13d8e378e6/android-image-cropper-2.7.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/01a021fea96471eaf8848622850ae9bc/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f20e4ae223c200022385147727c3f488/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0d1a281ddb5933f852fbc67456f3aefb/firebase-auth-11.8.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/8eacd321a6baf8e37f6983f33ef1240f/firebase-core-11.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/e888fd3292baeff5d4efe33fb2fdbc4a/firebase-ui-database-3.2.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/73500fe7d404d5e1e917f83ff4629655/firebase-database-11.8.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b388c069e593c3c0c089c62ebd51a06d/firebase-messaging-11.8.0/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-storage:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/c52a2c06ea15d4e4667140c75fd00555/firebase-storage-11.8.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d40b80b7090b3b6eeb4fdb9c903db7bd/play-services-base-11.8.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/ed5b72e76282460669006c7e88055898/firebase-database-connection-11.8.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/23cca9fa55c9c343b9bcd0327a144eb0/firebase-analytics-impl-11.8.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/910cbe4e2d5d70e3208f33be07081ada/firebase-common-11.8.0/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/4e83df1eb49ab7001730b30461688686/play-services-tasks-11.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/bb6f2b3d11d3cd6b9bac7ebc921d048b/firebase-storage-common-11.8.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f0aa18c8d6f5c0ee2f05baacca620deb/play-services-basement-11.8.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/938c1204d10c43efb59ac71c7ede0bcc/support-v4-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0de9585e556b9a46f2e58302e3476c01/picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/ba4699559a258aa73fb0a676450f6e5b/circleimageview-3.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f5c1a969f840777f7734cbd618a0565b/recyclerview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/c3bf4d1c288c88c7b6ff7524b777a60d/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/ab017dcc8db7ab9b4de7ec0020b03d1b/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f6f99dbaabb6a7d64541965ad702b84c/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f232d165794fe0fcff9bc155ad233f4a/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f2a233dec574d62974205b1689e27654/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/2bd425ec337eca4c45909e724d11217a/transition-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5e89a7167c33f1bb61c56d707392930e/support-media-compat-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/11be793f116e383d552aaed044d6f035/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/3392e09253dbba1d9cd0a414792e6d5b/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fd0e25e0525d379f7c27019348b82b2d/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/2e698e7fca03541bfb9120c35459120a/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/8f064bff6a276182f2427ec524597e55/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/3c7588465df78da824ed9cd247f0e8c5/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/3f5de41d282109fabaf2ed84a3161aa4/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b1e886535dcac1915843c39665b3a638/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f5a85dd78f7d459b9d0f4b7a370cdf52/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d790f8117c9ad9f0bd9c5bd2af0305ba/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/bca2b3de6fc81115f61e1eb43f6eaf6b/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f72e403481cf3e472c3b3f1e93bb8aae/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-common:3.2.2] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/9d54e18821db45230cabbeecbf716a22/firebase-ui-common-3.2.2/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:exifinterface:27.1.1] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/06bd5f2cdaf8c34f145d96424200a497/exifinterface-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/071388ef2ef74f97c6c4a3c211459323/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/adfdb48118c472794762167115e9b951/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/768adb5c47bec9bcbe7beb38b33ba3f3/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/784d2a7f1fd72ecfd6f53a2fb6fbfc71/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fb93e5f4a9c6e65b0676457d21b78db9/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b4282ea70c80d279764a48f149dad3ff/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b5898091ea4f3deab3e3ed39b9bbc2b5/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/4938619f1f8c61192f21552cd26d4af1/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/086ad9987c99c37a722c4512a28d44e2/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/ca460fc742d83e1599a67c473dc20483/firebase-auth-license-11.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0a25de4606f5983daea87a3da4f29289/firebase-database-license-11.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/bc81e40b09f3f8ee99101fe15255e5d9/firebase-messaging-license-11.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/1a5913127a9bacf4b9f9051d86bb4108/firebase-storage-license-11.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/cbb1b0ae19a21b74e44129e30d1d7a80/play-services-base-license-11.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d8c5ccdcf3df9f6f66ca4fbafe50420f/play-services-basement-license-11.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/231d48431d97c5ea68b8c775cebc05a3/firebase-common-license-11.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/141c6e35d77b0f2902ced46c2ab710db/play-services-tasks-license-11.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/45cddc8b4a39e7add78c306d8f396460/firebase-analytics-license-11.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/55998f52423ad93285e0d8d2b8fe2809/firebase-database-connection-license-11.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/af4bdab9246730fc082b9cd417e1a5cb/firebase-iid-license-11.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/4d7c47b0caf37c93318357f1142a4ac9/firebase-storage-common-license-11.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/69012187be7fc28dd385954d46b3146d/firebase-analytics-impl-license-11.8.0/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:2:1-59:12
+		INJECTED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:2:1-59:12
+		INJECTED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:7:5-67
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/e888fd3292baeff5d4efe33fb2fdbc4a/firebase-ui-database-3.2.2/AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/e888fd3292baeff5d4efe33fb2fdbc4a/firebase-ui-database-3.2.2/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/23cca9fa55c9c343b9bcd0327a144eb0/firebase-analytics-impl-11.8.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/23cca9fa55c9c343b9bcd0327a144eb0/firebase-analytics-impl-11.8.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:8:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/23cca9fa55c9c343b9bcd0327a144eb0/firebase-analytics-impl-11.8.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/23cca9fa55c9c343b9bcd0327a144eb0/firebase-analytics-impl-11.8.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:9:22-76
+application
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:11:5-57:19
+MERGED from [com.android.support:design:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/dd542358a68089867e0b5b5c0286298b/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/dd542358a68089867e0b5b5c0286298b/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f20e4ae223c200022385147727c3f488/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f20e4ae223c200022385147727c3f488/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0d1a281ddb5933f852fbc67456f3aefb/firebase-auth-11.8.0/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0d1a281ddb5933f852fbc67456f3aefb/firebase-auth-11.8.0/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/8eacd321a6baf8e37f6983f33ef1240f/firebase-core-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/8eacd321a6baf8e37f6983f33ef1240f/firebase-core-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b388c069e593c3c0c089c62ebd51a06d/firebase-messaging-11.8.0/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b388c069e593c3c0c089c62ebd51a06d/firebase-messaging-11.8.0/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d40b80b7090b3b6eeb4fdb9c903db7bd/play-services-base-11.8.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d40b80b7090b3b6eeb4fdb9c903db7bd/play-services-base-11.8.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/23cca9fa55c9c343b9bcd0327a144eb0/firebase-analytics-impl-11.8.0/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/23cca9fa55c9c343b9bcd0327a144eb0/firebase-analytics-impl-11.8.0/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/910cbe4e2d5d70e3208f33be07081ada/firebase-common-11.8.0/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/910cbe4e2d5d70e3208f33be07081ada/firebase-common-11.8.0/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/4e83df1eb49ab7001730b30461688686/play-services-tasks-11.8.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/4e83df1eb49ab7001730b30461688686/play-services-tasks-11.8.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f0aa18c8d6f5c0ee2f05baacca620deb/play-services-basement-11.8.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f0aa18c8d6f5c0ee2f05baacca620deb/play-services-basement-11.8.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0de9585e556b9a46f2e58302e3476c01/picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0de9585e556b9a46f2e58302e3476c01/picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/ba4699559a258aa73fb0a676450f6e5b/circleimageview-3.0.0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/ba4699559a258aa73fb0a676450f6e5b/circleimageview-3.0.0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f5a85dd78f7d459b9d0f4b7a370cdf52/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f5a85dd78f7d459b9d0f4b7a370cdf52/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d790f8117c9ad9f0bd9c5bd2af0305ba/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d790f8117c9ad9f0bd9c5bd2af0305ba/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/ca460fc742d83e1599a67c473dc20483/firebase-auth-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/ca460fc742d83e1599a67c473dc20483/firebase-auth-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0a25de4606f5983daea87a3da4f29289/firebase-database-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0a25de4606f5983daea87a3da4f29289/firebase-database-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/bc81e40b09f3f8ee99101fe15255e5d9/firebase-messaging-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/bc81e40b09f3f8ee99101fe15255e5d9/firebase-messaging-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/1a5913127a9bacf4b9f9051d86bb4108/firebase-storage-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/1a5913127a9bacf4b9f9051d86bb4108/firebase-storage-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/cbb1b0ae19a21b74e44129e30d1d7a80/play-services-base-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/cbb1b0ae19a21b74e44129e30d1d7a80/play-services-base-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d8c5ccdcf3df9f6f66ca4fbafe50420f/play-services-basement-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d8c5ccdcf3df9f6f66ca4fbafe50420f/play-services-basement-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/231d48431d97c5ea68b8c775cebc05a3/firebase-common-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/231d48431d97c5ea68b8c775cebc05a3/firebase-common-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/141c6e35d77b0f2902ced46c2ab710db/play-services-tasks-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/141c6e35d77b0f2902ced46c2ab710db/play-services-tasks-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/45cddc8b4a39e7add78c306d8f396460/firebase-analytics-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/45cddc8b4a39e7add78c306d8f396460/firebase-analytics-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/55998f52423ad93285e0d8d2b8fe2809/firebase-database-connection-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/55998f52423ad93285e0d8d2b8fe2809/firebase-database-connection-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/af4bdab9246730fc082b9cd417e1a5cb/firebase-iid-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/af4bdab9246730fc082b9cd417e1a5cb/firebase-iid-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/4d7c47b0caf37c93318357f1142a4ac9/firebase-storage-common-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/4d7c47b0caf37c93318357f1142a4ac9/firebase-storage-common-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/69012187be7fc28dd385954d46b3146d/firebase-analytics-impl-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/69012187be7fc28dd385954d46b3146d/firebase-analytics-impl-license-11.8.0/AndroidManifest.xml:5:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f5a85dd78f7d459b9d0f4b7a370cdf52/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:16:9-54
+	android:largeHeap
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:15:9-33
+	android:icon
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.emmajerry2016.africlite.TransferChat
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:19:9-20:57
+	android:parentActivityName
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:20:13-55
+	android:name
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:19:19-47
+activity#com.emmajerry2016.africlite.ResetPasswordActivity
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:21:9-59
+	android:name
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:21:19-56
+activity#com.emmajerry2016.africlite.ChatActivity
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:22:9-24:58
+	android:parentActivityName
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:24:13-55
+	android:name
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:23:13-41
+activity#com.emmajerry2016.africlite.ProfileActivity
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:25:9-27:58
+	android:parentActivityName
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:27:13-55
+	android:name
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:26:13-44
+activity#com.emmajerry2016.africlite.FindFriendsActivity
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:28:9-30:58
+	android:parentActivityName
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:30:13-55
+	android:name
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:29:13-48
+activity#com.emmajerry2016.africlite.PhoneActivity
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:31:9-33:58
+	android:parentActivityName
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:33:13-55
+	android:name
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:32:13-42
+activity#com.emmajerry2016.africlite.SettingsActivity
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:34:9-36:58
+	android:parentActivityName
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:36:13-55
+	android:name
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:35:13-45
+activity#com.emmajerry2016.africlite.Search_engine
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:37:9-39:58
+	android:parentActivityName
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:39:13-55
+	android:name
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:38:13-42
+activity#com.emmajerry2016.africlite.RegisterActivity
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:40:9-42:58
+	android:parentActivityName
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:42:13-55
+	android:name
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:41:13-45
+activity#com.emmajerry2016.africlite.ScreenSaver
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:43:9-49:20
+	android:name
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:43:19-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:44:13-48:29
+action#android.intent.action.MAIN
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:47:27-74
+activity#com.emmajerry2016.africlite.LoginActivity
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:50:9-52:58
+	android:parentActivityName
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:52:13-55
+	android:name
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:51:13-42
+activity#com.emmajerry2016.africlite.MainActivity
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:53:9-50
+	android:name
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:53:19-47
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:54:9-56:59
+	android:theme
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:56:13-56
+	android:name
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml:55:13-76
+uses-sdk
+INJECTED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml
+INJECTED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/dd542358a68089867e0b5b5c0286298b/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/dd542358a68089867e0b5b5c0286298b/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5e18e961f902591a615adb13d8e378e6/android-image-cropper-2.7.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5e18e961f902591a615adb13d8e378e6/android-image-cropper-2.7.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/01a021fea96471eaf8848622850ae9bc/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/01a021fea96471eaf8848622850ae9bc/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f20e4ae223c200022385147727c3f488/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f20e4ae223c200022385147727c3f488/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0d1a281ddb5933f852fbc67456f3aefb/firebase-auth-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0d1a281ddb5933f852fbc67456f3aefb/firebase-auth-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/8eacd321a6baf8e37f6983f33ef1240f/firebase-core-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/8eacd321a6baf8e37f6983f33ef1240f/firebase-core-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/e888fd3292baeff5d4efe33fb2fdbc4a/firebase-ui-database-3.2.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/e888fd3292baeff5d4efe33fb2fdbc4a/firebase-ui-database-3.2.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/73500fe7d404d5e1e917f83ff4629655/firebase-database-11.8.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/73500fe7d404d5e1e917f83ff4629655/firebase-database-11.8.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b388c069e593c3c0c089c62ebd51a06d/firebase-messaging-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b388c069e593c3c0c089c62ebd51a06d/firebase-messaging-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/c52a2c06ea15d4e4667140c75fd00555/firebase-storage-11.8.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/c52a2c06ea15d4e4667140c75fd00555/firebase-storage-11.8.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d40b80b7090b3b6eeb4fdb9c903db7bd/play-services-base-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d40b80b7090b3b6eeb4fdb9c903db7bd/play-services-base-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/ed5b72e76282460669006c7e88055898/firebase-database-connection-11.8.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/ed5b72e76282460669006c7e88055898/firebase-database-connection-11.8.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/23cca9fa55c9c343b9bcd0327a144eb0/firebase-analytics-impl-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/23cca9fa55c9c343b9bcd0327a144eb0/firebase-analytics-impl-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/910cbe4e2d5d70e3208f33be07081ada/firebase-common-11.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/910cbe4e2d5d70e3208f33be07081ada/firebase-common-11.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/4e83df1eb49ab7001730b30461688686/play-services-tasks-11.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/4e83df1eb49ab7001730b30461688686/play-services-tasks-11.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/bb6f2b3d11d3cd6b9bac7ebc921d048b/firebase-storage-common-11.8.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/bb6f2b3d11d3cd6b9bac7ebc921d048b/firebase-storage-common-11.8.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f0aa18c8d6f5c0ee2f05baacca620deb/play-services-basement-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f0aa18c8d6f5c0ee2f05baacca620deb/play-services-basement-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/938c1204d10c43efb59ac71c7ede0bcc/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/938c1204d10c43efb59ac71c7ede0bcc/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0de9585e556b9a46f2e58302e3476c01/picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0de9585e556b9a46f2e58302e3476c01/picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/ba4699559a258aa73fb0a676450f6e5b/circleimageview-3.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/ba4699559a258aa73fb0a676450f6e5b/circleimageview-3.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f5c1a969f840777f7734cbd618a0565b/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f5c1a969f840777f7734cbd618a0565b/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/c3bf4d1c288c88c7b6ff7524b777a60d/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/c3bf4d1c288c88c7b6ff7524b777a60d/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/ab017dcc8db7ab9b4de7ec0020b03d1b/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/ab017dcc8db7ab9b4de7ec0020b03d1b/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f6f99dbaabb6a7d64541965ad702b84c/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f6f99dbaabb6a7d64541965ad702b84c/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f232d165794fe0fcff9bc155ad233f4a/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f232d165794fe0fcff9bc155ad233f4a/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f2a233dec574d62974205b1689e27654/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f2a233dec574d62974205b1689e27654/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/2bd425ec337eca4c45909e724d11217a/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/2bd425ec337eca4c45909e724d11217a/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5e89a7167c33f1bb61c56d707392930e/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5e89a7167c33f1bb61c56d707392930e/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/11be793f116e383d552aaed044d6f035/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/11be793f116e383d552aaed044d6f035/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/3392e09253dbba1d9cd0a414792e6d5b/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/3392e09253dbba1d9cd0a414792e6d5b/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fd0e25e0525d379f7c27019348b82b2d/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fd0e25e0525d379f7c27019348b82b2d/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/2e698e7fca03541bfb9120c35459120a/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/2e698e7fca03541bfb9120c35459120a/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/8f064bff6a276182f2427ec524597e55/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/8f064bff6a276182f2427ec524597e55/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/3c7588465df78da824ed9cd247f0e8c5/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/3c7588465df78da824ed9cd247f0e8c5/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/3f5de41d282109fabaf2ed84a3161aa4/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/3f5de41d282109fabaf2ed84a3161aa4/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b1e886535dcac1915843c39665b3a638/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b1e886535dcac1915843c39665b3a638/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f5a85dd78f7d459b9d0f4b7a370cdf52/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f5a85dd78f7d459b9d0f4b7a370cdf52/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d790f8117c9ad9f0bd9c5bd2af0305ba/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d790f8117c9ad9f0bd9c5bd2af0305ba/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/bca2b3de6fc81115f61e1eb43f6eaf6b/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/bca2b3de6fc81115f61e1eb43f6eaf6b/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f72e403481cf3e472c3b3f1e93bb8aae/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f72e403481cf3e472c3b3f1e93bb8aae/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-common:3.2.2] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/9d54e18821db45230cabbeecbf716a22/firebase-ui-common-3.2.2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-common:3.2.2] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/9d54e18821db45230cabbeecbf716a22/firebase-ui-common-3.2.2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:exifinterface:27.1.1] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/06bd5f2cdaf8c34f145d96424200a497/exifinterface-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/06bd5f2cdaf8c34f145d96424200a497/exifinterface-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/071388ef2ef74f97c6c4a3c211459323/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/071388ef2ef74f97c6c4a3c211459323/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/adfdb48118c472794762167115e9b951/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/adfdb48118c472794762167115e9b951/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/768adb5c47bec9bcbe7beb38b33ba3f3/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/768adb5c47bec9bcbe7beb38b33ba3f3/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/784d2a7f1fd72ecfd6f53a2fb6fbfc71/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/784d2a7f1fd72ecfd6f53a2fb6fbfc71/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fb93e5f4a9c6e65b0676457d21b78db9/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fb93e5f4a9c6e65b0676457d21b78db9/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b4282ea70c80d279764a48f149dad3ff/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b4282ea70c80d279764a48f149dad3ff/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b5898091ea4f3deab3e3ed39b9bbc2b5/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b5898091ea4f3deab3e3ed39b9bbc2b5/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/4938619f1f8c61192f21552cd26d4af1/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/4938619f1f8c61192f21552cd26d4af1/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/086ad9987c99c37a722c4512a28d44e2/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/086ad9987c99c37a722c4512a28d44e2/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/ca460fc742d83e1599a67c473dc20483/firebase-auth-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/ca460fc742d83e1599a67c473dc20483/firebase-auth-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0a25de4606f5983daea87a3da4f29289/firebase-database-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0a25de4606f5983daea87a3da4f29289/firebase-database-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/bc81e40b09f3f8ee99101fe15255e5d9/firebase-messaging-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/bc81e40b09f3f8ee99101fe15255e5d9/firebase-messaging-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/1a5913127a9bacf4b9f9051d86bb4108/firebase-storage-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/1a5913127a9bacf4b9f9051d86bb4108/firebase-storage-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/cbb1b0ae19a21b74e44129e30d1d7a80/play-services-base-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/cbb1b0ae19a21b74e44129e30d1d7a80/play-services-base-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d8c5ccdcf3df9f6f66ca4fbafe50420f/play-services-basement-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d8c5ccdcf3df9f6f66ca4fbafe50420f/play-services-basement-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/231d48431d97c5ea68b8c775cebc05a3/firebase-common-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/231d48431d97c5ea68b8c775cebc05a3/firebase-common-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/141c6e35d77b0f2902ced46c2ab710db/play-services-tasks-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/141c6e35d77b0f2902ced46c2ab710db/play-services-tasks-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/45cddc8b4a39e7add78c306d8f396460/firebase-analytics-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/45cddc8b4a39e7add78c306d8f396460/firebase-analytics-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/55998f52423ad93285e0d8d2b8fe2809/firebase-database-connection-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/55998f52423ad93285e0d8d2b8fe2809/firebase-database-connection-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/af4bdab9246730fc082b9cd417e1a5cb/firebase-iid-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/af4bdab9246730fc082b9cd417e1a5cb/firebase-iid-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/4d7c47b0caf37c93318357f1142a4ac9/firebase-storage-common-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/4d7c47b0caf37c93318357f1142a4ac9/firebase-storage-common-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/69012187be7fc28dd385954d46b3146d/firebase-analytics-impl-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/69012187be7fc28dd385954d46b3146d/firebase-analytics-impl-license-11.8.0/AndroidManifest.xml:4:5-43
+INJECTED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml
+INJECTED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/src/main/AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0d1a281ddb5933f852fbc67456f3aefb/firebase-auth-11.8.0/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0d1a281ddb5933f852fbc67456f3aefb/firebase-auth-11.8.0/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0d1a281ddb5933f852fbc67456f3aefb/firebase-auth-11.8.0/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0d1a281ddb5933f852fbc67456f3aefb/firebase-auth-11.8.0/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0d1a281ddb5933f852fbc67456f3aefb/firebase-auth-11.8.0/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0d1a281ddb5933f852fbc67456f3aefb/firebase-auth-11.8.0/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0d1a281ddb5933f852fbc67456f3aefb/firebase-auth-11.8.0/AndroidManifest.xml:24:13-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b388c069e593c3c0c089c62ebd51a06d/firebase-messaging-11.8.0/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b388c069e593c3c0c089c62ebd51a06d/firebase-messaging-11.8.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b388c069e593c3c0c089c62ebd51a06d/firebase-messaging-11.8.0/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b388c069e593c3c0c089c62ebd51a06d/firebase-messaging-11.8.0/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b388c069e593c3c0c089c62ebd51a06d/firebase-messaging-11.8.0/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b388c069e593c3c0c089c62ebd51a06d/firebase-messaging-11.8.0/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/b388c069e593c3c0c089c62ebd51a06d/firebase-messaging-11.8.0/AndroidManifest.xml:32:25-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d40b80b7090b3b6eeb4fdb9c903db7bd/play-services-base-11.8.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d40b80b7090b3b6eeb4fdb9c903db7bd/play-services-base-11.8.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d40b80b7090b3b6eeb4fdb9c903db7bd/play-services-base-11.8.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/d40b80b7090b3b6eeb4fdb9c903db7bd/play-services-base-11.8.0/AndroidManifest.xml:24:13-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/23cca9fa55c9c343b9bcd0327a144eb0/firebase-analytics-impl-11.8.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/23cca9fa55c9c343b9bcd0327a144eb0/firebase-analytics-impl-11.8.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/23cca9fa55c9c343b9bcd0327a144eb0/firebase-analytics-impl-11.8.0/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/23cca9fa55c9c343b9bcd0327a144eb0/firebase-analytics-impl-11.8.0/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/23cca9fa55c9c343b9bcd0327a144eb0/firebase-analytics-impl-11.8.0/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/23cca9fa55c9c343b9bcd0327a144eb0/firebase-analytics-impl-11.8.0/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5a0c8c99d7982db79231bd0730eed6de/firebase-analytics-11.8.0/AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:29:9-63
+permission#com.emmajerry2016.africlite.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:32:22-76
+uses-permission#com.emmajerry2016.africlite.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.emmajerry2016.africlite
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:42:27-58
+category#com.emmajerry2016.africlite
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/fdb8cea5f35360ac654ec5774f664329/firebase-iid-11.8.0/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/910cbe4e2d5d70e3208f33be07081ada/firebase-common-11.8.0/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/910cbe4e2d5d70e3208f33be07081ada/firebase-common-11.8.0/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/910cbe4e2d5d70e3208f33be07081ada/firebase-common-11.8.0/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/910cbe4e2d5d70e3208f33be07081ada/firebase-common-11.8.0/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/910cbe4e2d5d70e3208f33be07081ada/firebase-common-11.8.0/AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f0aa18c8d6f5c0ee2f05baacca620deb/play-services-basement-11.8.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f0aa18c8d6f5c0ee2f05baacca620deb/play-services-basement-11.8.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/f0aa18c8d6f5c0ee2f05baacca620deb/play-services-basement-11.8.0/AndroidManifest.xml:24:13-58
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0de9585e556b9a46f2e58302e3476c01/picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0de9585e556b9a46f2e58302e3476c01/picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0de9585e556b9a46f2e58302e3476c01/picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/0de9585e556b9a46f2e58302e3476c01/picasso-2.71828/AndroidManifest.xml:9:13-64

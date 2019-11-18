@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/emmanuelOnah/Desktop/PersonAndroidProjects/AfricLiteSchProject/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rGT/values-es-rGT.xml",
+            "map": [
+                {
+                    "source": "/Users/emmanuelOnah/.gradle/caches/transforms-2/files-2.1/5e18e961f902591a615adb13d8e378e6/android-image-cropper-2.7.0/res/values-es-rGT/values-es-rGT.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,170,217,273,336,422,504,581,657",
+                        "endColumns": "114,46,55,62,85,81,76,75,78",
+                        "endOffsets": "165,212,268,331,417,499,576,652,731"
+                    }
+                }
+            ]
+        }
+    ]
+}
